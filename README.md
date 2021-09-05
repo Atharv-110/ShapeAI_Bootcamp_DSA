@@ -17,6 +17,7 @@ Q6. Print this pattern using loops
 	  * * *
 	 * * * *
 	* * * * *
+	
 Q7. Write a program that takes n elements from the user and displays the second largest element of an array.
 
 Q8. https://www.hackerrank.com/challenges/array-left-rotation/problem
