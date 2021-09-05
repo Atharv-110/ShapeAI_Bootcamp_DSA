@@ -11,13 +11,12 @@ Q4. Write a program to display Fibonacci Series upto nth term. (Using loops)
 Q5. Write a program to check whether a number is Prime or Not.
 
 Q6. Print this pattern using loops
-For n=5
+	For n=5
 	    *
 	   * *
 	  * * *
 	 * * * *
 	* * * * *
-
 Q7. Write a program that takes n elements from the user and displays the second largest element of an array.
 
 Q8. https://www.hackerrank.com/challenges/array-left-rotation/problem
